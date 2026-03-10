@@ -1,3 +1,13 @@
+# 🎰 JOYA9 Bangladesh Casino
+
+![Node.js](https://img.shields.io/badge/Node.js-18-green)
+![Express](https://img.shields.io/badge/Express-Server-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
+Mini **Joya9-style casino web project** built with Node.js and Express.
+
+A simple casino demo including slot game UI, login page, and admin dashboard.
 RBAJEE Token Platform
 
 RBAJEE Token Platform একটি সম্পূর্ণ Android-based token management system।
